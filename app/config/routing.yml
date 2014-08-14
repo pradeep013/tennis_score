@@ -1,0 +1,6 @@
+deep_test:
+    resource: "@DeepTestBundle/Resources/config/routing.yml"
+    prefix:   /
+
+
+

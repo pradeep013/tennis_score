@@ -1,0 +1,8 @@
+
+parameters:
+#    deep_test.example.class: Deep\TestBundle\Example
+
+services:
+    call_with_name:
+        class: Deep\TestBundle\Controller\DefaultController
+        arguments: [@twig]
