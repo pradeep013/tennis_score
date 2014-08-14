@@ -6,3 +6,4 @@ services:
     call_with_name:
         class: Deep\TestBundle\Controller\DefaultController
         arguments: [@twig]
+
